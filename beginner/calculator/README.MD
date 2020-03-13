@@ -1,3 +1,5 @@
+# Calculator Template
+
 <p align="center">
   <img src="https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/calculator/calculator.png" title="PureCalc screenshot" alt="PureCalc screenshot">
 </p>
