@@ -1,6 +1,6 @@
 # Calculator Template
 
-![CalcScreenshot](https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/calculator/calculator.png)
+![CalcScreenshot](https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/calculator/logo.png)
 
 ### PureCalc - Simple Calculator Using HTML and CSS
 
