@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+    <script async src="./scripts/script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="display-4 text-center mb-4 app-title">What's The Temp? <span id="temp" class="fa"></span></h1>
+      
+            <div class="input-group input-group-lg">
+              <label class="sr-only" for="farInput">Enter degrees in Farenheit</label>
+              <input id="farInput" type="number" class="form-control" placeholder="Enter number">
+              <div class="input-group-addon starter">&deg;F</div>
+              <div class="input-group-addon result-a"><span id="farToCel"></span> &deg;C</div>
+              <div class="input-group-addon result-b"><span id="farToKel"></span> &deg;K</div>
+            </div>
+      
+            <div class="input-group input-group-lg">
+              <label class="sr-only" for="celInput">Enter degrees in Celsius</label>
+              <input id="celInput" type="number" class="form-control" placeholder="Enter number">
+              <div class="input-group-addon starter">&deg;C</div>
+              <div class="input-group-addon result-a"><span id="celToFar"></span> &deg;F</div>
+              <div class="input-group-addon result-b"><span id="celToKel"></span> &deg;K</div>
+            </div>
+      
+            <div class="input-group input-group-lg">
+              <label class="sr-only" for="kelInput">Enter degrees in Kelvin</label>
+              <input id="kelInput" type="number" class="form-control" placeholder="Enter number">
+              <div class="input-group-addon starter">&deg;K</div>
+              <div class="input-group-addon result-a"><span id="kelToFar"></span> &deg;F</div>
+              <div class="input-group-addon result-b"><span id="kelToCel"></span> &deg;C</div>
+            </div>
+      
+          </div>
+        </div>
+        
+        <div class="row footer">
+          <p class="footer-text"><a href="https://melaniemagdalena.com">Made with <span class="heart">❤</span> by M<sup>2</sup></a> | Inspiration from <a href="https://www.youtube.com/watch?v=7l-ZAuU8TXc">"Weight Converter"</a> &amp; <a href="https://www.youtube.com/watch?v=XP-MRCUPZao">"Animated Icons"</a> by Traversy Media</p>
+        </div>
+      
+      </div>
+</body>
+</html>
