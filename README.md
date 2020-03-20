@@ -22,7 +22,15 @@ Páginas prontas para quem quer estudar programação treinar integração com o
 
 <a href="https://github.com/mleitejunior/projects-html-css-templates/tree/master/beginner/temperature-converter">
   <p align="center">
-    <img src="https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/temperature-converter/preview.png" title="temperature-converter screenshot" alt="PureCalc screenshot">
+    <img src="https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/temperature-converter/preview.png" title="temperature-converter screenshot" alt="Temperature Converter screenshot">
+  </p>
+</a>
+
+### Rock Paper Scissor Game
+
+<a href="https://github.com/mleitejunior/projects-html-css-templates/tree/master/beginner/rock-paper-scissor">
+  <p align="center">
+    <img src="https://github.com/mleitejunior/projects-html-css-templates/blob/master/beginner/rock-paper-scissor/preview.png" title="temperature-converter screenshot" alt="rock-paper-scissor screenshot">
   </p>
 </a>
 
