@@ -83,6 +83,11 @@ body {
   color: #fff;
 }
 
+.button:active, .button.c:active, .button.l:active {
+  transform: scale(0.9);
+  background-color: rgb(100, 85, 0);
+}
+
 .blink-me {
   color: #E0B612;
 }
